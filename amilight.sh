@@ -4,6 +4,8 @@
 #####		Amilight.sh ver: Beta
 ###
 #### AppLamp, MiLight, LimitlessLED, Applight, Applamp, LEDme, dekolight, iLight, Easybulb
+# Copyright 2018, Adrian S, All rights reserved.
+
 
 # Sources:
 # https://gist.github.com/AppLamp-API/5576325
